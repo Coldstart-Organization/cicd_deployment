@@ -4,8 +4,8 @@ const app = express();
 
 // Define your API name and version
 const apiInfo = {
-  name: "Simple API",
-  version: "2.0.0"
+  name: "CC DEMO API",
+  version: "1.0.0"
 };
 
 // Root route
